@@ -6,6 +6,6 @@ API_practice.ipynb
 
 random_numbers.ipynb
 
-WeatherPy/_pycache_/api_keys.cpython-38.pyc/folder_to_ignore/
+WeatherPy/_pycache_/
+__pycache__/
 api_keys.cpython-38.pyc
-**/__pycache__/
