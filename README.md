@@ -17,4 +17,4 @@ Wind speed also did not have any correlation to distance from the equator. Wind 
 This section used the data gathered from WeatherPy as well as the jupyter-gmaps and the Google Places API to determine the best vacation cities based on weather. The humidity of the cities in the data set was mapped in a heatmap. Ideal vacation conditions were defined (max temperature between 68 and 80 degrees Fahrenheit, wind speed less than 10 mph, and no clouds!) and cities that matched those conditions were identified. Hotel data for these cities was retrieved using Google Places API and these were mapped on top of the heatmap. 
 
 ### **Final heatmap**
-!(../VacationPy_heatmap.png)
+![Final heatmap](../VacationPy_heatmap.png)
